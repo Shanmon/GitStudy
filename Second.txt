@@ -2,4 +2,4 @@
 1=India
 2=SOVIET UNIOUN
 3=France
-5=Japan
+5=Japan-Islands
